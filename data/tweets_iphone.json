@@ -1,9 +1,16 @@
 {
   "data": [
     {
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n〇 10/11 15:40:39\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/dBKqIJK3eV",
-      "author_id": "1195758562825424896",
       "source": "KATE_LIP",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:40:39.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n〇 10/11 15:40:39\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/dBKqIJK3eV",
       "context_annotations": [
         {
           "domain": {
@@ -177,52 +184,8 @@
           }
         }
       ],
+      "id": "1579723636004753408",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6858,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9423,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 36,
-            "probability": 0.3272,
-            "type": "Product",
-            "normalized_text": "iPhone 14 256GB"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 82,
-            "end": 91,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 92,
-            "end": 105,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 106,
-            "end": 118,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 119,
-            "end": 134,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 135,
@@ -247,28 +210,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B02KAEBYF3/dp/B0BDHTWWSR?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 82,
+            "end": 91,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 92,
+            "end": 105,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 106,
+            "end": 118,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 119,
+            "end": 134,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6858,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9423,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 36,
+            "probability": 0.3272,
+            "type": "Product",
+            "normalized_text": "iPhone 14 256GB"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579723636004753408"
+      ],
+      "author_id": "1195758562825424896",
+      "conversation_id": "1579723636004753408",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "KATE_LIP",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:40:39.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723636004753408"
-      ],
-      "conversation_id": "1579723636004753408",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579723636004753408",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:40:39.000Z"
-    },
-    {
       "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n〇 10/11 15:40:39\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/1X5UjKJltF",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
       "context_annotations": [
         {
           "domain": {
@@ -442,52 +449,8 @@
           }
         }
       ],
+      "id": "1579723635991801856",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6858,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9423,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 36,
-            "probability": 0.3272,
-            "type": "Product",
-            "normalized_text": "iPhone 14 256GB"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 82,
-            "end": 91,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 92,
-            "end": 105,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 106,
-            "end": 118,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 119,
-            "end": 134,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 135,
@@ -512,28 +475,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0UVEQHINA/dp/B0BDHTWWSR?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 82,
+            "end": 91,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 92,
+            "end": 105,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 106,
+            "end": 118,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 119,
+            "end": 134,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6858,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9423,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 36,
+            "probability": 0.3272,
+            "type": "Product",
+            "normalized_text": "iPhone 14 256GB"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579723635991801856"
+      ],
+      "author_id": "1195758562825424896",
+      "conversation_id": "1579723635991801856",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "tewittermoitor",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:40:33.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723635991801856"
-      ],
-      "conversation_id": "1579723635991801856",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579723635991801856",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:40:39.000Z"
-    },
-    {
       "text": "Amazonにて入荷中！\nApple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n10/11 15:40:33 現在\nhttps://t.co/goTHTaxpma",
-      "author_id": "1192717921807740928",
-      "source": "tewittermoitor",
       "context_annotations": [
         {
           "domain": {
@@ -707,52 +714,8 @@
           }
         }
       ],
+      "id": "1579723613652979713",
       "entities": {
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7725,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 13,
-            "end": 17,
-            "probability": 0.9258,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 19,
-            "end": 24,
-            "probability": 0.5124,
-            "type": "Product",
-            "normalized_text": "iPhone"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 62,
-            "end": 71,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 72,
-            "end": 85,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 86,
-            "end": 98,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 99,
-            "end": 114,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 133,
@@ -777,28 +740,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0JOH671LE/dp/B0BDHTWWSR?m=AN1VRQENFRJN5&tag=lphone14-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 62,
+            "end": 71,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 72,
+            "end": 85,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 86,
+            "end": 98,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 99,
+            "end": 114,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.7725,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "probability": 0.9258,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 19,
+            "end": 24,
+            "probability": 0.5124,
+            "type": "Product",
+            "normalized_text": "iPhone"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579723613652979713"
+      ],
+      "author_id": "1192717921807740928",
+      "conversation_id": "1579723613652979713",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "KATE_LIP",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:40:33.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723613652979713"
-      ],
-      "conversation_id": "1579723613652979713",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579723613652979713",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:40:33.000Z"
-    },
-    {
       "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n〇 10/11 15:40:33\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/MV8I14Dv9k",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
       "context_annotations": [
         {
           "domain": {
@@ -972,52 +979,8 @@
           }
         }
       ],
+      "id": "1579723613636554754",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6845,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9397,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 36,
-            "probability": 0.3144,
-            "type": "Product",
-            "normalized_text": "iPhone 14 256GB"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 82,
-            "end": 91,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 92,
-            "end": 105,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 106,
-            "end": 118,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 119,
-            "end": 134,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 135,
@@ -1042,28 +1005,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0IFN1O067/dp/B0BDHTWWSR?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 82,
+            "end": 91,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 92,
+            "end": 105,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 106,
+            "end": 118,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 119,
+            "end": 134,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6845,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9397,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 36,
+            "probability": 0.3144,
+            "type": "Product",
+            "normalized_text": "iPhone 14 256GB"
+          }
         ]
-      },
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
       },
       "edit_history_tweet_ids": [
         "1579723613636554754"
       ],
+      "author_id": "1195758562825424896",
       "conversation_id": "1579723613636554754",
-      "lang": "ja",
       "reply_settings": "everyone",
-      "id": "1579723613636554754",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:40:33.000Z"
+      "lang": "ja"
     },
     {
-      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n■ 入荷日時 10/11 15:40:33\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/uVEbDPKVf1",
-      "author_id": "1195323670857756672",
       "source": "apple通知",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:40:33.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 256GB (PRODUCT)RED - SIMフリー 5G対応\n■ 入荷日時 10/11 15:40:33\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/uVEbDPKVf1",
       "context_annotations": [
         {
           "domain": {
@@ -1237,47 +1244,8 @@
           }
         }
       ],
+      "id": "1579723613636218881",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.7336,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 19,
-            "end": 23,
-            "probability": 0.951,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 25,
-            "end": 39,
-            "probability": 0.3346,
-            "type": "Product",
-            "normalized_text": "iPhone 14 256GB"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 89,
-            "end": 98,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 99,
-            "end": 111,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 112,
-            "end": 127,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 128,
@@ -1302,28 +1270,67 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/qKsGE3FTd8/dp/B0BDHTWWSR?m=AN1VRQENFRJN5&tag=apple14-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 89,
+            "end": 98,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 99,
+            "end": 111,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 112,
+            "end": 127,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.7336,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 19,
+            "end": 23,
+            "probability": 0.951,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 25,
+            "end": 39,
+            "probability": 0.3346,
+            "type": "Product",
+            "normalized_text": "iPhone 14 256GB"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579723613636218881"
+      ],
+      "author_id": "1195323670857756672",
+      "conversation_id": "1579723613636218881",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "Twitter Web App",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:39:54.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 1,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723613636218881"
-      ],
-      "conversation_id": "1579723613636218881",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579723613636218881",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:40:33.000Z"
-    },
-    {
       "text": "【10月11日】iPhone14/Pro/ProMax フリー在庫あり\n詳細は電話にてお問い合わせ下さい！ 　    \n★★★ 052-918-2235 ★★★             \n#愛知 #名古屋 #MNP #iPhone14  #iPhone14Pro  #iPhone14ProMax",
-      "author_id": "118896789",
-      "source": "Twitter Web App",
       "context_annotations": [
         {
           "domain": {
@@ -1473,6 +1480,11 @@
           }
         }
       ],
+      "id": "1579723449928675328",
+      "edit_history_tweet_ids": [
+        "1579723449928675328"
+      ],
+      "author_id": "118896789",
       "entities": {
         "hashtags": [
           {
@@ -1507,26 +1519,21 @@
           }
         ]
       },
+      "conversation_id": "1579723449928675328",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "iphone-bot",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:39:10.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
-        "like_count": 1,
+        "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723449928675328"
-      ],
-      "conversation_id": "1579723449928675328",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579723449928675328",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:39:54.000Z"
-    },
-    {
       "text": "✅Mall of Emirates iPhone 14 Pro 256GB Gold\nLink: https://t.co/7Jr2ahGUeo \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
-      "author_id": "1573217945202950145",
-      "source": "iphone-bot",
       "context_annotations": [
         {
           "domain": {
@@ -1664,38 +1671,8 @@
           }
         }
       ],
+      "id": "1579723264888565760",
       "entities": {
-        "annotations": [
-          {
-            "start": 1,
-            "end": 46,
-            "probability": 0.1973,
-            "type": "Product",
-            "normalized_text": "Mall of Emirates iPhone 14 Pro 256GB Gold Link"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 74,
-            "end": 86,
-            "tag": "iphone14pro"
-          },
-          {
-            "start": 87,
-            "end": 102,
-            "tag": "iphone14promax"
-          },
-          {
-            "start": 103,
-            "end": 112,
-            "tag": "iphone14"
-          },
-          {
-            "start": 113,
-            "end": 125,
-            "tag": "iphonedubai"
-          }
-        ],
         "urls": [
           {
             "start": 49,
@@ -1720,28 +1697,86 @@
             "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
             "unwound_url": "https://www.apple.com/ae/iphone/"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 74,
+            "end": 86,
+            "tag": "iphone14pro"
+          },
+          {
+            "start": 87,
+            "end": 102,
+            "tag": "iphone14promax"
+          },
+          {
+            "start": 103,
+            "end": 112,
+            "tag": "iphone14"
+          },
+          {
+            "start": 113,
+            "end": 125,
+            "tag": "iphonedubai"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 30,
+            "probability": 0.5088,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Pro"
+          },
+          {
+            "start": 75,
+            "end": 85,
+            "probability": 0.8302,
+            "type": "Product",
+            "normalized_text": "iphone14pro"
+          },
+          {
+            "start": 88,
+            "end": 101,
+            "probability": 0.8172,
+            "type": "Product",
+            "normalized_text": "iphone14promax"
+          },
+          {
+            "start": 104,
+            "end": 111,
+            "probability": 0.7474,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 114,
+            "end": 124,
+            "probability": 0.8616,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579723264888565760"
+      ],
+      "author_id": "1573217945202950145",
+      "conversation_id": "1579723264888565760",
+      "reply_settings": "everyone",
+      "lang": "en"
+    },
+    {
+      "source": "KATE_LIP",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:36:43.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579723264888565760"
-      ],
-      "conversation_id": "1579723264888565760",
-      "lang": "en",
-      "reply_settings": "everyone",
-      "id": "1579723264888565760",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:39:10.000Z"
-    },
-    {
       "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 128GB ミッドナイト - SIMフリー 5G対応\n〇 10/11 15:36:42\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/yXOU5mFJjZ",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
       "context_annotations": [
         {
           "domain": {
@@ -1915,52 +1950,8 @@
           }
         }
       ],
+      "id": "1579722645544701957",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6738,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9282,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 43,
-            "probability": 0.1894,
-            "type": "Product",
-            "normalized_text": "iPhone 14 128GB ミッドナイト"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 76,
-            "end": 85,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 86,
-            "end": 99,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 100,
-            "end": 112,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 113,
-            "end": 128,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 129,
@@ -1985,28 +1976,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B07JJJFZU1/dp/B0BDHYSS4J?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 76,
+            "end": 85,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 86,
+            "end": 99,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 100,
+            "end": 112,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 113,
+            "end": 128,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6738,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9282,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 43,
+            "probability": 0.1894,
+            "type": "Product",
+            "normalized_text": "iPhone 14 128GB ミッドナイト"
+          }
         ]
       },
+      "edit_history_tweet_ids": [
+        "1579722645544701957"
+      ],
+      "author_id": "1195758562825424896",
+      "conversation_id": "1579722645544701957",
+      "reply_settings": "everyone",
+      "lang": "ja"
+    },
+    {
+      "source": "KATE_LIP",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:36:43.000Z",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "edit_history_tweet_ids": [
-        "1579722645544701957"
-      ],
-      "conversation_id": "1579722645544701957",
-      "lang": "ja",
-      "reply_settings": "everyone",
-      "id": "1579722645544701957",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:36:43.000Z"
-    },
-    {
       "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 128GB ミッドナイト - SIMフリー 5G対応\n〇 10/11 15:36:43\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/AAGOQfKT7g",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
       "context_annotations": [
         {
           "domain": {
@@ -2180,52 +2215,8 @@
           }
         }
       ],
+      "id": "1579722645502758912",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6733,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9265,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 43,
-            "probability": 0.1843,
-            "type": "Product",
-            "normalized_text": "iPhone 14 128GB ミッドナイト"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 76,
-            "end": 85,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 86,
-            "end": 99,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 100,
-            "end": 112,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 113,
-            "end": 128,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 129,
@@ -2250,28 +2241,72 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0BFD6O7RP/dp/B0BDHYSS4J?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 76,
+            "end": 85,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 86,
+            "end": 99,
+            "tag": "iPhone14Plus"
+          },
+          {
+            "start": 100,
+            "end": 112,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 113,
+            "end": 128,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6733,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9265,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 43,
+            "probability": 0.1843,
+            "type": "Product",
+            "normalized_text": "iPhone 14 128GB ミッドナイト"
+          }
         ]
-      },
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
       },
       "edit_history_tweet_ids": [
         "1579722645502758912"
       ],
+      "author_id": "1195758562825424896",
       "conversation_id": "1579722645502758912",
-      "lang": "ja",
       "reply_settings": "everyone",
-      "id": "1579722645502758912",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:36:43.000Z"
+      "lang": "ja"
     },
     {
-      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 128GB ミッドナイト - SIMフリー 5G対応\n■ 入荷日時 10/11 15:36:37\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/LMDdomW48l",
-      "author_id": "1195323670857756672",
       "source": "apple通知",
+      "possibly_sensitive": false,
+      "created_at": "2022-10-11T06:36:37.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0
+      },
+      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 128GB ミッドナイト - SIMフリー 5G対応\n■ 入荷日時 10/11 15:36:37\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/LMDdomW48l",
       "context_annotations": [
         {
           "domain": {
@@ -2445,47 +2480,8 @@
           }
         }
       ],
+      "id": "1579722623122305031",
       "entities": {
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.717,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 19,
-            "end": 23,
-            "probability": 0.9417,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 25,
-            "end": 46,
-            "probability": 0.1737,
-            "type": "Product",
-            "normalized_text": "iPhone 14 128GB ミッドナイト"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 83,
-            "end": 92,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 93,
-            "end": 105,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 106,
-            "end": 121,
-            "tag": "iPhone14ProMax"
-          }
-        ],
         "urls": [
           {
             "start": 122,
@@ -2510,23 +2506,55 @@
             "description": "iPhone 14。iPhone 史上最高のデュアルカメラシステムで、暗い場所でも明るい場所でも、見とれるほど美しい写真を。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/8XcRo5VO7y/dp/B0BDHYSS4J?m=AN1VRQENFRJN5&tag=apple14-22"
           }
+        ],
+        "hashtags": [
+          {
+            "start": 83,
+            "end": 92,
+            "tag": "iPhone14"
+          },
+          {
+            "start": 93,
+            "end": 105,
+            "tag": "iPhone14Pro"
+          },
+          {
+            "start": 106,
+            "end": 121,
+            "tag": "iPhone14ProMax"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.717,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 19,
+            "end": 23,
+            "probability": 0.9417,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 25,
+            "end": 46,
+            "probability": 0.1737,
+            "type": "Product",
+            "normalized_text": "iPhone 14 128GB ミッドナイト"
+          }
         ]
-      },
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 1,
-        "quote_count": 0
       },
       "edit_history_tweet_ids": [
         "1579722623122305031"
       ],
+      "author_id": "1195323670857756672",
       "conversation_id": "1579722623122305031",
-      "lang": "ja",
       "reply_settings": "everyone",
-      "id": "1579722623122305031",
-      "possibly_sensitive": false,
-      "created_at": "2022-10-11T06:36:37.000Z"
+      "lang": "ja"
     }
   ],
   "meta": {

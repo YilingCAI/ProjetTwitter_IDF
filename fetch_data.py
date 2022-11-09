@@ -15,8 +15,8 @@ bearer_token = "AAAAAAAAAAAAAAAAAAAAAGmjhwEAAAAA2bw4J5CXp748WcaLSb5CVwVu5W8%3DCC
 query = '#iphone14 #iphone14pro #iphone14promax'
 
 # Define query start time and end time
-starttime = "2022-10-11T00:00:00.000Z"
-endtime = "2022-10-11T07:00:00.000Z"
+starttime = "2022-11-06T00:00:00.000Z"
+endtime = "2022-11-07T07:00:00.000Z"
 granularity = 'hour'
 
 ############################ Connection&Authentification ############################

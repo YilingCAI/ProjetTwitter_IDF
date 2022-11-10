@@ -2,6 +2,7 @@ import tweepy  # install tweepy version 4.10.0
 import json
 import pandas as pd
 import requests
+import os
 
 ############################  ############################
 # Authentification information
@@ -57,6 +58,12 @@ tweets_count = client.get_recent_tweets_count(query=query,
 # Save data as dictionary
 tweets_dict = tweets.json()
 tweets_count_dict = tweets_count.json()
+
+# Change directory
+cmd = os.getcwd()
+chcmd = cmd + '/data'
+os.chdir(chcmd)
+
 # Save data to json file https://www.w3schools.com/python/python_json.asp
 with open('tweets_iphone.json', 'w', encoding='utf-8') as f:
     json.dump(tweets_dict, f, indent=2, ensure_ascii=False)

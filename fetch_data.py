@@ -8,7 +8,7 @@ import requests
 access_token = "724143775677845505-WQWYBuUzbucqX8ytKfWz2oZ8XCdekYI"
 access_token_secret = "albiqWEFTUES7K90bPeCItiBFqQdQRzx7eflOQySDwX1O"
 consumer_key = "LrCFkh2aFVDpD0sDrY2HnSXTP"
-consumer_secret = "uAUvnTDCiIVNV3dLPjDJDkRWglCNQUcd1POFyN29ZGLFNm8kh1"
+consumer_secret = "uAUvnTDCiIVNV3dLPjDJDkRWglCNQUcd1POFyN29ZGLFN8kh1"
 bearer_token = "AAAAAAAAAAAAAAAAAAAAAGmjhwEAAAAA2bw4J5CXp748WcaLSb5CVwVu5W8%3DCC6hm0yObWyuyTIZu15tTpg2DKVXvhOaUhD9YScLCTouUkxlTA"
 
 # Define query : https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
@@ -66,13 +66,13 @@ with open('tweets_count_iphone.json', 'w', encoding='utf-8') as f:
 
 #Save data to local csv file#
 # Extract "data" value from dictionary
-tweets_data = tweets_dict['data']
-tweets_count_data = tweets_count_dict['data']
+# tweets_data = tweets_dict['data']
+# tweets_count_data = tweets_count_dict['data']
 
 # Convert json to pandas dataframe
-df = pd.json_normalize(tweets_data)
-df_count = pd.json_normalize(tweets_count_data)
+# df = pd.json_normalize(tweets_data)
+# df_count = pd.json_normalize(tweets_count_data)
 
 # Save data to csv file
-df.to_csv("tweets_iphone.csv")
-df_count.to_csv("tweets_count_iphone.csv")
+# df.to_csv("tweets_iphone.csv")
+# df_count.to_csv("tweets_count_iphone.csv")

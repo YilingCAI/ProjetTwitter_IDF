@@ -1,6 +1,167 @@
 {
   "data": [
     {
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "29",
+            "name": "Events [Entity Service]",
+            "description": "Real world events. "
+          },
+          "entity": {
+            "id": "1546888717209460736",
+            "name": "Apple Fall Event 2022"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "1303989823011606528",
+            "name": "Tech events"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "1436053202835689485",
+            "name": "Events"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848920700073123840",
+            "name": "Cell Phones",
+            "description": "Cell phones"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "conversation_id": "1589500274267553792",
       "entities": {
         "hashtags": [
           {
@@ -61,29 +222,30 @@
           }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589500274267553792"
-      ],
-      "source": "Twitter Web App",
-      "lang": "ja",
-      "conversation_id": "1589500274267553792",
-      "possibly_sensitive": false,
-      "text": "気になる機種スペックや価格を大公開\niPhone14シリーズ🍎機種情報をご紹介✨\n📲https://t.co/EbQanMMpLY\n\n#Apple #iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax #テルル  #新潟 https://t.co/acIJSk41A5",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "117917884",
+      "possibly_sensitive": false,
+      "id": "1589500274267553792",
+      "created_at": "2022-11-07T06:09:31.000Z",
+      "source": "Twitter Web App",
+      "edit_history_tweet_ids": [
+        "1589500274267553792"
+      ],
+      "reply_settings": "everyone",
       "attachments": {
         "media_keys": [
           "3_1589500267388510208"
         ]
       },
-      "created_at": "2022-11-07T06:09:31.000Z",
-      "id": "1589500274267553792",
+      "author_id": "117917884",
+      "lang": "ja",
+      "text": "気になる機種スペックや価格を大公開\niPhone14シリーズ🍎機種情報をご紹介✨\n📲https://t.co/EbQanMMpLY\n\n#Apple #iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax #テルル  #新潟 https://t.co/acIJSk41A5"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -243,9 +405,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589500011158568962",
       "entities": {
         "hashtags": [
           {
@@ -267,6 +428,31 @@
             "start": 118,
             "end": 130,
             "tag": "iphonedubai"
+          }
+        ],
+        "urls": [
+          {
+            "start": 54,
+            "end": 77,
+            "url": "https://t.co/V6Z0VzXinT",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R597&partNumber=MQ9P3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
           }
         ],
         "annotations": [
@@ -305,51 +491,27 @@
             "type": "Product",
             "normalized_text": "iphonedubai"
           }
-        ],
-        "urls": [
-          {
-            "start": 54,
-            "end": 77,
-            "url": "https://t.co/V6Z0VzXinT",
-            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R597&partNumber=MQ9P3AA/A&plan=unlocked",
-            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
-                "width": 1200,
-                "height": 630
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "iPhone",
-            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
-            "unwound_url": "https://www.apple.com/ae/iphone/"
-          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589500011158568962"
-      ],
-      "source": "iphone-bot",
-      "lang": "en",
-      "conversation_id": "1589500011158568962",
-      "possibly_sensitive": false,
-      "text": "✅Dubai Mall iPhone 14 Pro Max 128GB Space Black\nLink: https://t.co/V6Z0VzXinT \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1573217945202950145",
-      "created_at": "2022-11-07T06:08:28.000Z",
+      "possibly_sensitive": false,
       "id": "1589500011158568962",
+      "created_at": "2022-11-07T06:08:28.000Z",
+      "source": "iphone-bot",
+      "edit_history_tweet_ids": [
+        "1589500011158568962"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145",
+      "lang": "en",
+      "text": "✅Dubai Mall iPhone 14 Pro Max 128GB Space Black\nLink: https://t.co/V6Z0VzXinT \n#iphone14pro #iphone14promax #iphone14 #iphonedubai"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -420,6 +582,18 @@
         },
         {
           "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "1085628093627195392",
+            "name": "5G",
+            "description": "5G"
+          }
+        },
+        {
+          "domain": {
             "id": "131",
             "name": "Unified Twitter Taxonomy",
             "description": "A taxonomy of user interests. "
@@ -427,6 +601,18 @@
           "entity": {
             "id": "10026364281",
             "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
           }
         },
         {
@@ -509,9 +695,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495566760902657",
       "entities": {
         "hashtags": [
           {
@@ -533,29 +718,6 @@
             "start": 118,
             "end": 133,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6896,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9514,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.2803,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -582,26 +744,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B04W8O2DJA/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6896,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9514,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 48,
+            "probability": 0.2803,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495566760902657"
-      ],
-      "source": "KATE_LIP",
-      "lang": "ja",
-      "conversation_id": "1589495566760902657",
-      "possibly_sensitive": false,
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:49\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/u17i00jgqA",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195758562825424896",
-      "created_at": "2022-11-07T05:50:49.000Z",
+      "possibly_sensitive": false,
       "id": "1589495566760902657",
+      "created_at": "2022-11-07T05:50:49.000Z",
+      "source": "KATE_LIP",
+      "edit_history_tweet_ids": [
+        "1589495566760902657"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195758562825424896",
+      "lang": "ja",
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:49\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/u17i00jgqA"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -785,9 +971,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495566668632064",
       "entities": {
         "hashtags": [
           {
@@ -809,29 +994,6 @@
             "start": 118,
             "end": 133,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -858,26 +1020,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0KDON70Z5/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6919,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9526,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 48,
+            "probability": 0.287,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495566668632064"
-      ],
-      "source": "KATE_LIP",
-      "lang": "ja",
-      "conversation_id": "1589495566668632064",
-      "possibly_sensitive": false,
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/mbqFIlH5Gi",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195758562825424896",
-      "created_at": "2022-11-07T05:50:49.000Z",
+      "possibly_sensitive": false,
       "id": "1589495566668632064",
+      "created_at": "2022-11-07T05:50:49.000Z",
+      "source": "KATE_LIP",
+      "edit_history_tweet_ids": [
+        "1589495566668632064"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195758562825424896",
+      "lang": "ja",
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/mbqFIlH5Gi"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -1061,9 +1247,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495566521753601",
       "entities": {
         "hashtags": [
           {
@@ -1085,29 +1270,6 @@
             "start": 118,
             "end": 133,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -1134,26 +1296,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0V1CHZV4O/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6919,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9526,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 48,
+            "probability": 0.287,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495566521753601"
-      ],
-      "source": "KATE_LIP",
-      "lang": "ja",
-      "conversation_id": "1589495566521753601",
-      "possibly_sensitive": false,
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/AcbmTIv6d9",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195758562825424896",
-      "created_at": "2022-11-07T05:50:49.000Z",
+      "possibly_sensitive": false,
       "id": "1589495566521753601",
+      "created_at": "2022-11-07T05:50:49.000Z",
+      "source": "KATE_LIP",
+      "edit_history_tweet_ids": [
+        "1589495566521753601"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195758562825424896",
+      "lang": "ja",
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/AcbmTIv6d9"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -1337,9 +1523,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495566370750465",
       "entities": {
         "hashtags": [
           {
@@ -1361,29 +1546,6 @@
             "start": 118,
             "end": 133,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -1410,26 +1572,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0P5KBF1ZR/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6919,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9526,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 48,
+            "probability": 0.287,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495566370750465"
-      ],
-      "source": "KATE_LIP",
-      "lang": "ja",
-      "conversation_id": "1589495566370750465",
-      "possibly_sensitive": false,
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/RZZNE9uF9A",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195758562825424896",
-      "created_at": "2022-11-07T05:50:49.000Z",
+      "possibly_sensitive": false,
       "id": "1589495566370750465",
+      "created_at": "2022-11-07T05:50:49.000Z",
+      "source": "KATE_LIP",
+      "edit_history_tweet_ids": [
+        "1589495566370750465"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195758562825424896",
+      "lang": "ja",
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/RZZNE9uF9A"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -1613,9 +1799,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495543889362944",
       "entities": {
         "hashtags": [
           {
@@ -1632,6 +1817,19 @@
             "start": 111,
             "end": 126,
             "tag": "iPhone14ProMax"
+          }
+        ],
+        "urls": [
+          {
+            "start": 127,
+            "end": 150,
+            "url": "https://t.co/CLESRwiglw",
+            "expanded_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22",
+            "display_url": "amazon.co.jp/yaeJSsHSAi/dp/…",
+            "status": 200,
+            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
+            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
+            "unwound_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22"
           }
         ],
         "annotations": [
@@ -1656,39 +1854,27 @@
             "type": "Product",
             "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
-        ],
-        "urls": [
-          {
-            "start": 127,
-            "end": 150,
-            "url": "https://t.co/CLESRwiglw",
-            "expanded_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22",
-            "display_url": "amazon.co.jp/yaeJSsHSAi/dp/…",
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22"
-          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543889362944"
-      ],
-      "source": "apple通知",
-      "lang": "ja",
-      "conversation_id": "1589495543889362944",
-      "possibly_sensitive": false,
-      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n■ 入荷日時 11/07 14:50:43\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/CLESRwiglw",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195323670857756672",
-      "created_at": "2022-11-07T05:50:43.000Z",
+      "possibly_sensitive": false,
       "id": "1589495543889362944",
+      "created_at": "2022-11-07T05:50:43.000Z",
+      "source": "apple通知",
+      "edit_history_tweet_ids": [
+        "1589495543889362944"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195323670857756672",
+      "lang": "ja",
+      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n■ 入荷日時 11/07 14:50:43\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/CLESRwiglw"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -1872,9 +2058,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495543868407810",
       "entities": {
         "hashtags": [
           {
@@ -1896,29 +2081,6 @@
             "start": 98,
             "end": 113,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7776,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 13,
-            "end": 17,
-            "probability": 0.9645,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 19,
-            "end": 45,
-            "probability": 0.2138,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -1945,26 +2107,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B08J6VVHW4/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.7776,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "probability": 0.9645,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 19,
+            "end": 45,
+            "probability": 0.2138,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543868407810"
-      ],
-      "source": "tewittermoitor",
-      "lang": "ja",
-      "conversation_id": "1589495543868407810",
-      "possibly_sensitive": false,
-      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/G9NBnmLntM",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1192717921807740928",
-      "created_at": "2022-11-07T05:50:43.000Z",
+      "possibly_sensitive": false,
       "id": "1589495543868407810",
+      "created_at": "2022-11-07T05:50:43.000Z",
+      "source": "tewittermoitor",
+      "edit_history_tweet_ids": [
+        "1589495543868407810"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1192717921807740928",
+      "lang": "ja",
+      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/G9NBnmLntM"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -2148,9 +2334,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495543860023298",
       "entities": {
         "hashtags": [
           {
@@ -2172,29 +2357,6 @@
             "start": 98,
             "end": 113,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7776,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 13,
-            "end": 17,
-            "probability": 0.9645,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 19,
-            "end": 45,
-            "probability": 0.2138,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -2221,26 +2383,50 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0JGEJS8WZ/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 5,
+            "probability": 0.7776,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "probability": 0.9645,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 19,
+            "end": 45,
+            "probability": 0.2138,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543860023298"
-      ],
-      "source": "tewittermoitor",
-      "lang": "ja",
-      "conversation_id": "1589495543860023298",
-      "possibly_sensitive": false,
-      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/g2KHF87D3X",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1192717921807740928",
-      "created_at": "2022-11-07T05:50:43.000Z",
+      "possibly_sensitive": false,
       "id": "1589495543860023298",
+      "created_at": "2022-11-07T05:50:43.000Z",
+      "source": "tewittermoitor",
+      "edit_history_tweet_ids": [
+        "1589495543860023298"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1192717921807740928",
+      "lang": "ja",
+      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/g2KHF87D3X"
+    },
+    {
       "context_annotations": [
         {
           "domain": {
@@ -2424,9 +2610,8 @@
             "description": "Mobile"
           }
         }
-      ]
-    },
-    {
+      ],
+      "conversation_id": "1589495543847321601",
       "entities": {
         "hashtags": [
           {
@@ -2448,29 +2633,6 @@
             "start": 118,
             "end": 133,
             "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6887,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9498,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.2711,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
           }
         ],
         "urls": [
@@ -2497,210 +2659,48 @@
             "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
             "unwound_url": "https://www.amazon.co.jp/B0HTAHFH42/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
           }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 7,
+            "probability": 0.6887,
+            "type": "Organization",
+            "normalized_text": "Amazon"
+          },
+          {
+            "start": 16,
+            "end": 20,
+            "probability": 0.9498,
+            "type": "Product",
+            "normalized_text": "Apple"
+          },
+          {
+            "start": 22,
+            "end": 48,
+            "probability": 0.2711,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543847321601"
-      ],
-      "source": "KATE_LIP",
-      "lang": "ja",
-      "conversation_id": "1589495543847321601",
-      "possibly_sensitive": false,
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:43\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/93uGDzhNm1",
-      "reply_settings": "everyone",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
-      "author_id": "1195758562825424896",
-      "created_at": "2022-11-07T05:50:43.000Z",
+      "possibly_sensitive": false,
       "id": "1589495543847321601",
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-          },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ]
+      "created_at": "2022-11-07T05:50:43.000Z",
+      "source": "KATE_LIP",
+      "edit_history_tweet_ids": [
+        "1589495543847321601"
+      ],
+      "reply_settings": "everyone",
+      "author_id": "1195758562825424896",
+      "lang": "ja",
+      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:43\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/93uGDzhNm1"
     }
   ],
   "meta": {

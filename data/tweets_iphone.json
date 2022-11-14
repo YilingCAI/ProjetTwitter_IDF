@@ -1,269 +1,72 @@
 {
   "data": [
     {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T06:09:31.000Z",
-      "text": "気になる機種スペックや価格を大公開\niPhone14シリーズ🍎機種情報をご紹介✨\n📲https://t.co/EbQanMMpLY\n\n#Apple #iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax #テルル  #新潟 https://t.co/acIJSk41A5",
-      "reply_settings": "everyone",
-      "attachments": {
-        "media_keys": [
-          "3_1589500267388510208"
-        ]
-      },
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
       "entities": {
-        "urls": [
-          {
-            "start": 42,
-            "end": 65,
-            "url": "https://t.co/EbQanMMpLY",
-            "expanded_url": "https://teluru.jp/posts/1319",
-            "display_url": "teluru.jp/posts/1319",
-            "status": 200,
-            "title": "総合デジタルショップテルル",
-            "description": "携帯ショップテルルの公式ホームページ。お役立ち情報、サービス紹介、ショップ店員によるスマホレビューを配信しています。",
-            "unwound_url": "https://www.teluru.jp/index.php"
-          },
-          {
-            "start": 137,
-            "end": 160,
-            "url": "https://t.co/acIJSk41A5",
-            "expanded_url": "https://twitter.com/teluru_nishi/status/1589500274267553792/photo/1",
-            "display_url": "pic.twitter.com/acIJSk41A5",
-            "media_key": "3_1589500267388510208"
-          }
-        ],
         "hashtags": [
           {
-            "start": 67,
-            "end": 73,
-            "tag": "Apple"
-          },
-          {
-            "start": 74,
-            "end": 83,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 84,
+            "start": 85,
             "end": 97,
-            "tag": "iPhone14Plus"
+            "tag": "iphone14pro"
           },
           {
             "start": 98,
-            "end": 110,
-            "tag": "iPhone14Pro"
+            "end": 113,
+            "tag": "iphone14promax"
           },
           {
-            "start": 111,
-            "end": 126,
-            "tag": "iPhone14ProMax"
+            "start": 114,
+            "end": 123,
+            "tag": "iphone14"
           },
           {
-            "start": 127,
-            "end": 131,
-            "tag": "テルル"
-          },
-          {
-            "start": 133,
+            "start": 124,
             "end": 136,
-            "tag": "新潟"
+            "tag": "iphonedubai"
           }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589500274267553792"
-      ],
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 26,
+            "probability": 0.5707,
+            "type": "Product",
+            "normalized_text": "iPhone 14"
           },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          {
+            "start": 86,
+            "end": 96,
+            "probability": 0.7939,
+            "type": "Product",
+            "normalized_text": "iphone14pro"
           },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
+          {
+            "start": 99,
+            "end": 112,
+            "probability": 0.7732,
+            "type": "Product",
+            "normalized_text": "iphone14promax"
           },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          {
+            "start": 115,
+            "end": 122,
+            "probability": 0.7854,
+            "type": "Product",
+            "normalized_text": "iphone14"
           },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
+          {
+            "start": 125,
+            "end": 135,
+            "probability": 0.8728,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
           }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ],
-      "id": "1589500274267553792",
-      "author_id": "117917884",
-      "source": "Twitter Web App",
-      "conversation_id": "1589500274267553792"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T06:08:28.000Z",
-      "text": "✅Dubai Mall iPhone 14 Pro Max 128GB Space Black\nLink: https://t.co/V6Z0VzXinT \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
-      "reply_settings": "everyone",
-      "lang": "en",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
+        ],
         "urls": [
           {
-            "start": 54,
-            "end": 77,
-            "url": "https://t.co/V6Z0VzXinT",
-            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R597&partNumber=MQ9P3AA/A&plan=unlocked",
+            "start": 60,
+            "end": 83,
+            "url": "https://t.co/X3fHenncLg",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MQ9P3AA/A&plan=unlocked",
             "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
             "images": [
               {
@@ -282,26 +85,326 @@
             "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
             "unwound_url": "https://www.apple.com/ae/iphone/"
           }
-        ],
+        ]
+      },
+      "lang": "en",
+      "conversation_id": "1590962060149391361",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848920700073123840",
+            "name": "Cell Phones",
+            "description": "Cell phones"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:58:08.000Z",
+      "edit_history_tweet_ids": [
+        "1590962060149391361"
+      ],
+      "source": "iphone-bot",
+      "id": "1590962060149391361",
+      "text": "✅Mall of Emirates iPhone 14 Pro Max 128GB Space Black\nLink: https://t.co/X3fHenncLg \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
+    },
+    {
+      "lang": "zh",
+      "conversation_id": "1590961679176957952",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 230,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 12,
+            "username": "P1919388",
+            "id": "1584960680741912576"
+          }
+        ]
+      },
+      "created_at": "2022-11-11T06:56:37.000Z",
+      "edit_history_tweet_ids": [
+        "1590961679176957952"
+      ],
+      "source": "Twitter for iPhone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1590278408466223104"
+        }
+      ],
+      "id": "1590961679176957952",
+      "text": "RT @P1919388: 转发➕关注我❤️抽3位幸运儿送三台iphone↓\n\n【 iPhone 14（512G）】顶配 \n【 iPhone 14 Pro （1TB）】顶配 \n【 iPhone 14 Pro Max （1TB）】顶配\n\n 转发关注我就行 ！不喜欢均可官网价格折现…",
+      "reply_settings": "following",
+      "author_id": "1585293534780719104"
+    },
+    {
+      "entities": {
         "hashtags": [
           {
-            "start": 79,
-            "end": 91,
+            "start": 70,
+            "end": 82,
             "tag": "iphone14pro"
           },
           {
-            "start": 92,
-            "end": 107,
+            "start": 83,
+            "end": 98,
             "tag": "iphone14promax"
           },
           {
-            "start": 108,
-            "end": 117,
+            "start": 99,
+            "end": 108,
             "tag": "iphone14"
           },
           {
-            "start": 118,
-            "end": 130,
+            "start": 109,
+            "end": 121,
             "tag": "iphonedubai"
           }
         ],
@@ -309,55 +412,68 @@
           {
             "start": 12,
             "end": 24,
-            "probability": 0.4257,
+            "probability": 0.4111,
             "type": "Product",
             "normalized_text": "iPhone 14 Pro"
           },
           {
-            "start": 80,
-            "end": 90,
-            "probability": 0.8922,
+            "start": 71,
+            "end": 81,
+            "probability": 0.8908,
             "type": "Product",
             "normalized_text": "iphone14pro"
           },
           {
-            "start": 93,
-            "end": 106,
-            "probability": 0.8743,
+            "start": 84,
+            "end": 97,
+            "probability": 0.8641,
             "type": "Product",
             "normalized_text": "iphone14promax"
           },
           {
-            "start": 109,
-            "end": 116,
-            "probability": 0.8678,
+            "start": 100,
+            "end": 107,
+            "probability": 0.7986,
             "type": "Product",
             "normalized_text": "iphone14"
           },
           {
-            "start": 119,
-            "end": 129,
-            "probability": 0.9213,
+            "start": 110,
+            "end": 120,
+            "probability": 0.8822,
             "type": "Product",
             "normalized_text": "iphonedubai"
           }
+        ],
+        "urls": [
+          {
+            "start": 45,
+            "end": 68,
+            "url": "https://t.co/mmQfSMd0BH",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R597&partNumber=MQ023AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
+          }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589500011158568962"
-      ],
+      "lang": "en",
+      "conversation_id": "1590960464510570497",
       "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
         {
           "domain": {
             "id": "46",
@@ -427,28 +543,6 @@
         },
         {
           "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
             "id": "47",
             "name": "Brand",
             "description": "Brands and Companies"
@@ -506,110 +600,27 @@
           }
         }
       ],
-      "id": "1589500011158568962",
-      "author_id": "1573217945202950145",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:51:48.000Z",
+      "edit_history_tweet_ids": [
+        "1590960464510570497"
+      ],
       "source": "iphone-bot",
-      "conversation_id": "1589500011158568962"
+      "id": "1590960464510570497",
+      "text": "✅Dubai Mall iPhone 14 Pro 128GB Silver\nLink: https://t.co/mmQfSMd0BH \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
     },
     {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:49.000Z",
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:49\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/u17i00jgqA",
-      "reply_settings": "everyone",
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
-        "urls": [
-          {
-            "start": 134,
-            "end": 157,
-            "url": "https://t.co/u17i00jgqA",
-            "expanded_url": "https://www.amazon.co.jp/B04W8O2DJA/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22",
-            "display_url": "amazon.co.jp/B04W8O2DJA/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574251847685/vs4elIbW?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574251847685/vs4elIbW?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B04W8O2DJA/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 81,
-            "end": 90,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 91,
-            "end": 104,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 105,
-            "end": 117,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 118,
-            "end": 133,
-            "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6896,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9514,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.2803,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
-          }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589495566760902657"
-      ],
+      "lang": "zh",
+      "conversation_id": "1590958436455690241",
       "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
         {
           "domain": {
             "id": "46",
@@ -668,18 +679,6 @@
         },
         {
           "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
             "id": "131",
             "name": "Unified Twitter Taxonomy",
             "description": "A taxonomy of user interests. "
@@ -687,40 +686,6 @@
           "entity": {
             "id": "10026364281",
             "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
           }
         },
         {
@@ -759,18 +724,6 @@
         },
         {
           "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
             "id": "30",
             "name": "Entities [Entity Service]",
             "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
@@ -782,110 +735,43 @@
           }
         }
       ],
-      "id": "1589495566760902657",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
-      "conversation_id": "1589495566760902657"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:49.000Z",
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/mbqFIlH5Gi",
-      "reply_settings": "everyone",
-      "lang": "ja",
       "public_metrics": {
-        "retweet_count": 0,
+        "retweet_count": 230,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "possibly_sensitive": false,
       "entities": {
-        "urls": [
+        "mentions": [
           {
-            "start": 134,
-            "end": 157,
-            "url": "https://t.co/mbqFIlH5Gi",
-            "expanded_url": "https://www.amazon.co.jp/B0KDON70Z5/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22",
-            "display_url": "amazon.co.jp/B0KDON70Z5/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574474231808/fd7ME3mX?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574474231808/fd7ME3mX?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B0KDON70Z5/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 81,
-            "end": 90,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 91,
-            "end": 104,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 105,
-            "end": 117,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 118,
-            "end": 133,
-            "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+            "start": 3,
+            "end": 12,
+            "username": "P1919388",
+            "id": "1584960680741912576"
           }
         ]
       },
+      "created_at": "2022-11-11T06:43:44.000Z",
       "edit_history_tweet_ids": [
-        "1589495566668632064"
+        "1590958436455690241"
       ],
-      "context_annotations": [
+      "source": "Twitter for iPhone",
+      "referenced_tweets": [
         {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
+          "type": "retweeted",
+          "id": "1590278408466223104"
+        }
+      ],
+      "id": "1590958436455690241",
+      "text": "RT @P1919388: 转发➕关注我❤️抽3位幸运儿送三台iphone↓\n\n【 iPhone 14（512G）】顶配 \n【 iPhone 14 Pro （1TB）】顶配 \n【 iPhone 14 Pro Max （1TB）】顶配\n\n 转发关注我就行 ！不喜欢均可官网价格折现…",
+      "reply_settings": "following",
+      "author_id": "1586425421628772352"
+    },
+    {
+      "lang": "zh",
+      "conversation_id": "1590957832400408577",
+      "context_annotations": [
         {
           "domain": {
             "id": "46",
@@ -944,18 +830,6 @@
         },
         {
           "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
             "id": "131",
             "name": "Unified Twitter Taxonomy",
             "description": "A taxonomy of user interests. "
@@ -963,40 +837,6 @@
           "entity": {
             "id": "10026364281",
             "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
           }
         },
         {
@@ -1035,18 +875,6 @@
         },
         {
           "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
             "id": "30",
             "name": "Entities [Entity Service]",
             "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
@@ -1058,645 +886,129 @@
           }
         }
       ],
-      "id": "1589495566668632064",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
-      "conversation_id": "1589495566668632064"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:49.000Z",
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/AcbmTIv6d9",
-      "reply_settings": "everyone",
-      "lang": "ja",
       "public_metrics": {
-        "retweet_count": 0,
+        "retweet_count": 230,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "possibly_sensitive": false,
       "entities": {
-        "urls": [
+        "mentions": [
           {
-            "start": 134,
-            "end": 157,
-            "url": "https://t.co/AcbmTIv6d9",
-            "expanded_url": "https://www.amazon.co.jp/B0V1CHZV4O/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22",
-            "display_url": "amazon.co.jp/B0V1CHZV4O/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495609148448769/-5jQUb3R?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495609148448769/-5jQUb3R?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B0V1CHZV4O/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
+            "start": 3,
+            "end": 12,
+            "username": "P1919388",
+            "id": "1584960680741912576"
           }
-        ],
+        ]
+      },
+      "created_at": "2022-11-11T06:41:20.000Z",
+      "edit_history_tweet_ids": [
+        "1590957832400408577"
+      ],
+      "source": "Twitter for iPhone",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "1590278408466223104"
+        }
+      ],
+      "id": "1590957832400408577",
+      "text": "RT @P1919388: 转发➕关注我❤️抽3位幸运儿送三台iphone↓\n\n【 iPhone 14（512G）】顶配 \n【 iPhone 14 Pro （1TB）】顶配 \n【 iPhone 14 Pro Max （1TB）】顶配\n\n 转发关注我就行 ！不喜欢均可官网价格折现…",
+      "reply_settings": "following",
+      "author_id": "1516645718496215043"
+    },
+    {
+      "entities": {
         "hashtags": [
           {
             "start": 81,
-            "end": 90,
-            "tag": "iPhone14"
+            "end": 93,
+            "tag": "iphone14pro"
           },
           {
-            "start": 91,
-            "end": 104,
-            "tag": "iPhone14Plus"
+            "start": 94,
+            "end": 109,
+            "tag": "iphone14promax"
           },
           {
-            "start": 105,
-            "end": 117,
-            "tag": "iPhone14Pro"
+            "start": 110,
+            "end": 119,
+            "tag": "iphone14"
           },
           {
-            "start": 118,
-            "end": 133,
-            "tag": "iPhone14ProMax"
+            "start": 120,
+            "end": 132,
+            "tag": "iphonedubai"
           }
         ],
         "annotations": [
           {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
+            "start": 18,
+            "end": 30,
+            "probability": 0.5709,
             "type": "Product",
-            "normalized_text": "Apple"
+            "normalized_text": "iPhone 14 Pro"
           },
           {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
+            "start": 82,
+            "end": 92,
+            "probability": 0.8428,
             "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
-          }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589495566521753601"
-      ],
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-          },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ],
-      "id": "1589495566521753601",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
-      "conversation_id": "1589495566521753601"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:49.000Z",
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:48\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/RZZNE9uF9A",
-      "reply_settings": "everyone",
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
-        "urls": [
-          {
-            "start": 134,
-            "end": 157,
-            "url": "https://t.co/RZZNE9uF9A",
-            "expanded_url": "https://www.amazon.co.jp/B0P5KBF1ZR/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22",
-            "display_url": "amazon.co.jp/B0P5KBF1ZR/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574046318592/GGh8GFlG?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495574046318592/GGh8GFlG?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B0P5KBF1ZR/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 81,
-            "end": 90,
-            "tag": "iPhone14"
+            "normalized_text": "iphone14pro"
           },
           {
-            "start": 91,
-            "end": 104,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 105,
-            "end": 117,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 118,
-            "end": 133,
-            "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6919,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9526,
+            "start": 95,
+            "end": 108,
+            "probability": 0.823,
             "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 22,
-            "end": 48,
-            "probability": 0.287,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
-          }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589495566370750465"
-      ],
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-          },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ],
-      "id": "1589495566370750465",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
-      "conversation_id": "1589495566370750465"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:43.000Z",
-      "text": "■ Amazonにて入荷中 🍎\n■ Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n■ 入荷日時 11/07 14:50:43\n#iPhone14 #iPhone14Pro #iPhone14ProMax\nhttps://t.co/CLESRwiglw",
-      "reply_settings": "everyone",
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
-        "urls": [
-          {
-            "start": 127,
-            "end": 150,
-            "url": "https://t.co/CLESRwiglw",
-            "expanded_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22",
-            "display_url": "amazon.co.jp/yaeJSsHSAi/dp/…",
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/yaeJSsHSAi/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=apple14-22"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 88,
-            "end": 97,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 98,
-            "end": 110,
-            "tag": "iPhone14Pro"
+            "normalized_text": "iphone14promax"
           },
           {
             "start": 111,
-            "end": 126,
-            "tag": "iPhone14ProMax"
+            "end": 118,
+            "probability": 0.8224,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 121,
+            "end": 131,
+            "probability": 0.887,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
           }
         ],
-        "annotations": [
+        "urls": [
           {
-            "start": 2,
-            "end": 7,
-            "probability": 0.7398,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 19,
-            "end": 23,
-            "probability": 0.9611,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 25,
-            "end": 51,
-            "probability": 0.3028,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+            "start": 56,
+            "end": 79,
+            "url": "https://t.co/spiJ1l59ve",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MPXV3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
           }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543889362944"
-      ],
+      "lang": "en",
+      "conversation_id": "1590956482316713984",
       "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
         {
           "domain": {
             "id": "46",
@@ -1755,18 +1067,6 @@
         },
         {
           "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
             "id": "131",
             "name": "Unified Twitter Taxonomy",
             "description": "A taxonomy of user interests. "
@@ -1774,40 +1074,6 @@
           "entity": {
             "id": "10026364281",
             "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
           }
         },
         {
@@ -1869,662 +1135,650 @@
           }
         }
       ],
-      "id": "1589495543889362944",
-      "author_id": "1195323670857756672",
-      "source": "apple通知",
-      "conversation_id": "1589495543889362944"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:43.000Z",
-      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/G9NBnmLntM",
-      "reply_settings": "everyone",
-      "lang": "ja",
       "public_metrics": {
         "retweet_count": 0,
         "reply_count": 0,
         "like_count": 0,
         "quote_count": 0
       },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:35:58.000Z",
+      "edit_history_tweet_ids": [
+        "1590956482316713984"
+      ],
+      "source": "iphone-bot",
+      "id": "1590956482316713984",
+      "text": "✅Mall of Emirates iPhone 14 Pro 128GB Space Black\nLink: https://t.co/spiJ1l59ve \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
+    },
+    {
       "entities": {
-        "urls": [
-          {
-            "start": 132,
-            "end": 155,
-            "url": "https://t.co/G9NBnmLntM",
-            "expanded_url": "https://www.amazon.co.jp/B08J6VVHW4/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22",
-            "display_url": "amazon.co.jp/B08J6VVHW4/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495552043094018/5thXGSfc?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495552043094018/5thXGSfc?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B08J6VVHW4/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22"
-          }
-        ],
         "hashtags": [
           {
-            "start": 61,
-            "end": 70,
-            "tag": "iPhone14"
+            "start": 80,
+            "end": 92,
+            "tag": "iphone14pro"
           },
           {
-            "start": 71,
-            "end": 84,
-            "tag": "iPhone14Plus"
+            "start": 93,
+            "end": 108,
+            "tag": "iphone14promax"
           },
           {
-            "start": 85,
-            "end": 97,
-            "tag": "iPhone14Pro"
+            "start": 109,
+            "end": 118,
+            "tag": "iphone14"
           },
           {
-            "start": 98,
-            "end": 113,
-            "tag": "iPhone14ProMax"
+            "start": 119,
+            "end": 131,
+            "tag": "iphonedubai"
           }
         ],
         "annotations": [
           {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7776,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 13,
-            "end": 17,
-            "probability": 0.9645,
+            "start": 18,
+            "end": 30,
+            "probability": 0.5209,
             "type": "Product",
-            "normalized_text": "Apple"
+            "normalized_text": "iPhone 14 Pro"
           },
-          {
-            "start": 19,
-            "end": 45,
-            "probability": 0.2138,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
-          }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589495543868407810"
-      ],
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-          },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ],
-      "id": "1589495543868407810",
-      "author_id": "1192717921807740928",
-      "source": "tewittermoitor",
-      "conversation_id": "1589495543868407810"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:43.000Z",
-      "text": "Amazonにて入荷中！\nApple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n#iPhone14 #iPhone14Plus\n#iPhone14Pro #iPhone14ProMax\n11/07 14:50:43 現在\nhttps://t.co/g2KHF87D3X",
-      "reply_settings": "everyone",
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
-        "urls": [
-          {
-            "start": 132,
-            "end": 155,
-            "url": "https://t.co/g2KHF87D3X",
-            "expanded_url": "https://www.amazon.co.jp/B0JGEJS8WZ/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22",
-            "display_url": "amazon.co.jp/B0JGEJS8WZ/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495551212625921/OCE4bm1T?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495551212625921/OCE4bm1T?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B0JGEJS8WZ/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=lphone14-22"
-          }
-        ],
-        "hashtags": [
-          {
-            "start": 61,
-            "end": 70,
-            "tag": "iPhone14"
-          },
-          {
-            "start": 71,
-            "end": 84,
-            "tag": "iPhone14Plus"
-          },
-          {
-            "start": 85,
-            "end": 97,
-            "tag": "iPhone14Pro"
-          },
-          {
-            "start": 98,
-            "end": 113,
-            "tag": "iPhone14ProMax"
-          }
-        ],
-        "annotations": [
-          {
-            "start": 0,
-            "end": 5,
-            "probability": 0.7776,
-            "type": "Organization",
-            "normalized_text": "Amazon"
-          },
-          {
-            "start": 13,
-            "end": 17,
-            "probability": 0.9645,
-            "type": "Product",
-            "normalized_text": "Apple"
-          },
-          {
-            "start": 19,
-            "end": 45,
-            "probability": 0.2138,
-            "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
-          }
-        ]
-      },
-      "edit_history_tweet_ids": [
-        "1589495543860023298"
-      ],
-      "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
-        {
-          "domain": {
-            "id": "46",
-            "name": "Business Taxonomy",
-            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
-          },
-          "entity": {
-            "id": "1557697333571112960",
-            "name": "Technology Business",
-            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1572673833676333056",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "49",
-            "name": "Product Version",
-            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
-          },
-          "entity": {
-            "id": "1584926191374344192",
-            "name": "Iphone 14"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
-          }
-        },
-        {
-          "domain": {
-            "id": "47",
-            "name": "Brand",
-            "description": "Brands and Companies"
-          },
-          "entity": {
-            "id": "10026364281",
-            "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "48",
-            "name": "Product",
-            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
-          },
-          "entity": {
-            "id": "10024011738",
-            "name": "Apple - iPhone"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "66",
-            "name": "Interests and Hobbies Category",
-            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
-          },
-          "entity": {
-            "id": "848920700073123840",
-            "name": "Cell Phones",
-            "description": "Cell phones"
-          }
-        },
-        {
-          "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "848985956778561538",
-            "name": "Mobile",
-            "description": "Mobile"
-          }
-        }
-      ],
-      "id": "1589495543860023298",
-      "author_id": "1192717921807740928",
-      "source": "tewittermoitor",
-      "conversation_id": "1589495543860023298"
-    },
-    {
-      "possibly_sensitive": false,
-      "created_at": "2022-11-07T05:50:43.000Z",
-      "text": "〇 Amazonで入荷中！\n〇 Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応\n〇 11/07 14:50:43\n#iPhone14 #iPhone14Plus #iPhone14Pro #iPhone14ProMax\nhttps://t.co/93uGDzhNm1",
-      "reply_settings": "everyone",
-      "lang": "ja",
-      "public_metrics": {
-        "retweet_count": 0,
-        "reply_count": 0,
-        "like_count": 0,
-        "quote_count": 0
-      },
-      "entities": {
-        "urls": [
-          {
-            "start": 134,
-            "end": 157,
-            "url": "https://t.co/93uGDzhNm1",
-            "expanded_url": "https://www.amazon.co.jp/B0HTAHFH42/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22",
-            "display_url": "amazon.co.jp/B0HTAHFH42/dp/…",
-            "images": [
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495551749390341/Gq5I5dtg?format=png&name=orig",
-                "width": 600,
-                "height": 315
-              },
-              {
-                "url": "https://pbs.twimg.com/news_img/1589495551749390341/Gq5I5dtg?format=png&name=150x150",
-                "width": 150,
-                "height": 150
-              }
-            ],
-            "status": 200,
-            "title": "Apple iPhone 14 Plus 256GB スターライト - SIMフリー 5G対応",
-            "description": "iPhone 14 Plus。超ビッグな 6.7 インチのディスプレイ 1 と一日中使えるバッテリー2 で、ワンダフルな毎日を。 新しいデュアルカメラシステムでは、暗い場所でも明るい場所でも、見とれるほど美しい写真が撮れるようにな りました。あなたの代わりに救助を要請する新しい安全機能、衝突事故検出も搭載しています 。",
-            "unwound_url": "https://www.amazon.co.jp/B0HTAHFH42/dp/B0BDJ3DXJG?m=AN1VRQENFRJN5&tag=evis0-22"
-          }
-        ],
-        "hashtags": [
           {
             "start": 81,
+            "end": 91,
+            "probability": 0.8529,
+            "type": "Product",
+            "normalized_text": "iphone14pro"
+          },
+          {
+            "start": 94,
+            "end": 107,
+            "probability": 0.8354,
+            "type": "Product",
+            "normalized_text": "iphone14promax"
+          },
+          {
+            "start": 110,
+            "end": 117,
+            "probability": 0.8364,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 120,
+            "end": 130,
+            "probability": 0.8967,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
+          }
+        ],
+        "urls": [
+          {
+            "start": 55,
+            "end": 78,
+            "url": "https://t.co/gphDLA7REI",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MQ9V3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
+          }
+        ]
+      },
+      "lang": "en",
+      "conversation_id": "1590955378543628288",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:31:35.000Z",
+      "edit_history_tweet_ids": [
+        "1590955378543628288"
+      ],
+      "source": "iphone-bot",
+      "id": "1590955378543628288",
+      "text": "✅Mall of Emirates iPhone 14 Pro Max 256GB Silver\nLink: https://t.co/gphDLA7REI \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 85,
+            "end": 97,
+            "tag": "iphone14pro"
+          },
+          {
+            "start": 98,
+            "end": 113,
+            "tag": "iphone14promax"
+          },
+          {
+            "start": 114,
+            "end": 123,
+            "tag": "iphone14"
+          },
+          {
+            "start": 124,
+            "end": 136,
+            "tag": "iphonedubai"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 26,
+            "probability": 0.5418,
+            "type": "Product",
+            "normalized_text": "iPhone 14"
+          },
+          {
+            "start": 86,
+            "end": 96,
+            "probability": 0.8209,
+            "type": "Product",
+            "normalized_text": "iphone14pro"
+          },
+          {
+            "start": 99,
+            "end": 112,
+            "probability": 0.8004,
+            "type": "Product",
+            "normalized_text": "iphone14promax"
+          },
+          {
+            "start": 115,
+            "end": 122,
+            "probability": 0.8074,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 125,
+            "end": 135,
+            "probability": 0.887,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
+          }
+        ],
+        "urls": [
+          {
+            "start": 60,
+            "end": 83,
+            "url": "https://t.co/Lz3rr9urLL",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MQ9T3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
+          }
+        ]
+      },
+      "lang": "en",
+      "conversation_id": "1590955377381851136",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "10",
+            "name": "Person",
+            "description": "Named people in the world like Nelson Mandela"
+          },
+          "entity": {
+            "id": "917860735031447557",
+            "name": "Deep Purple",
+            "description": "Deep Purple"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557696802391859201",
+            "name": "Entertainment & Leisure Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels"
+          }
+        },
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "54",
+            "name": "Musician",
+            "description": "A musician in the world, like Adele or Bob Dylan"
+          },
+          "entity": {
+            "id": "917860735031447557",
+            "name": "Deep Purple",
+            "description": "Deep Purple"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "806571747730341888",
+            "name": "Rock",
+            "description": "Rock"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "847524658970636288",
+            "name": "Music",
+            "description": "Music and radio"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "917860735031447557",
+            "name": "Deep Purple",
+            "description": "Deep Purple"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "1291812963314098176",
+            "name": "Hard rock"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "66",
+            "name": "Interests and Hobbies Category",
+            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+          },
+          "entity": {
+            "id": "848920700073123840",
+            "name": "Cell Phones",
+            "description": "Cell phones"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:31:35.000Z",
+      "edit_history_tweet_ids": [
+        "1590955377381851136"
+      ],
+      "source": "iphone-bot",
+      "id": "1590955377381851136",
+      "text": "✅Mall of Emirates iPhone 14 Pro Max 128GB Deep Purple\nLink: https://t.co/Lz3rr9urLL \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 78,
             "end": 90,
-            "tag": "iPhone14"
+            "tag": "iphone14pro"
           },
           {
             "start": 91,
-            "end": 104,
-            "tag": "iPhone14Plus"
+            "end": 106,
+            "tag": "iphone14promax"
           },
           {
-            "start": 105,
-            "end": 117,
-            "tag": "iPhone14Pro"
+            "start": 107,
+            "end": 116,
+            "tag": "iphone14"
           },
           {
-            "start": 118,
-            "end": 133,
-            "tag": "iPhone14ProMax"
+            "start": 117,
+            "end": 129,
+            "tag": "iphonedubai"
           }
         ],
         "annotations": [
           {
-            "start": 2,
-            "end": 7,
-            "probability": 0.6887,
-            "type": "Organization",
-            "normalized_text": "Amazon"
+            "start": 18,
+            "end": 26,
+            "probability": 0.4903,
+            "type": "Product",
+            "normalized_text": "iPhone 14"
           },
           {
-            "start": 16,
-            "end": 20,
-            "probability": 0.9498,
+            "start": 79,
+            "end": 89,
+            "probability": 0.8216,
             "type": "Product",
-            "normalized_text": "Apple"
+            "normalized_text": "iphone14pro"
           },
           {
-            "start": 22,
-            "end": 48,
-            "probability": 0.2711,
+            "start": 92,
+            "end": 105,
+            "probability": 0.7979,
             "type": "Product",
-            "normalized_text": "iPhone 14 Plus 256GB スターライト"
+            "normalized_text": "iphone14promax"
+          },
+          {
+            "start": 108,
+            "end": 115,
+            "probability": 0.8017,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 118,
+            "end": 128,
+            "probability": 0.8704,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
+          }
+        ],
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/QdisH7rlLk",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MQ9R3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
           }
         ]
       },
-      "edit_history_tweet_ids": [
-        "1589495543847321601"
-      ],
+      "lang": "en",
+      "conversation_id": "1590955362189918210",
       "context_annotations": [
-        {
-          "domain": {
-            "id": "29",
-            "name": "Events [Entity Service]",
-            "description": "Real world events. "
-          },
-          "entity": {
-            "id": "1546888717209460736",
-            "name": "Apple Fall Event 2022"
-          }
-        },
         {
           "domain": {
             "id": "46",
@@ -2583,18 +1837,6 @@
         },
         {
           "domain": {
-            "id": "30",
-            "name": "Entities [Entity Service]",
-            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
-          },
-          "entity": {
-            "id": "1085628093627195392",
-            "name": "5G",
-            "description": "5G"
-          }
-        },
-        {
-          "domain": {
             "id": "131",
             "name": "Unified Twitter Taxonomy",
             "description": "A taxonomy of user interests. "
@@ -2602,40 +1844,6 @@
           "entity": {
             "id": "10026364281",
             "name": "Apple"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "848920371311001600",
-            "name": "Technology",
-            "description": "Technology and computing"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1303989823011606528",
-            "name": "Tech events"
-          }
-        },
-        {
-          "domain": {
-            "id": "131",
-            "name": "Unified Twitter Taxonomy",
-            "description": "A taxonomy of user interests. "
-          },
-          "entity": {
-            "id": "1436053202835689485",
-            "name": "Events"
           }
         },
         {
@@ -2697,16 +1905,249 @@
           }
         }
       ],
-      "id": "1589495543847321601",
-      "author_id": "1195758562825424896",
-      "source": "KATE_LIP",
-      "conversation_id": "1589495543847321601"
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:31:31.000Z",
+      "edit_history_tweet_ids": [
+        "1590955362189918210"
+      ],
+      "source": "iphone-bot",
+      "id": "1590955362189918210",
+      "text": "✅Mall of Emirates iPhone 14 Pro Max 128GB Gold\nLink: https://t.co/QdisH7rlLk \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
+    },
+    {
+      "entities": {
+        "hashtags": [
+          {
+            "start": 78,
+            "end": 90,
+            "tag": "iphone14pro"
+          },
+          {
+            "start": 91,
+            "end": 106,
+            "tag": "iphone14promax"
+          },
+          {
+            "start": 107,
+            "end": 116,
+            "tag": "iphone14"
+          },
+          {
+            "start": 117,
+            "end": 129,
+            "tag": "iphonedubai"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 30,
+            "probability": 0.4766,
+            "type": "Product",
+            "normalized_text": "iPhone 14 Pro"
+          },
+          {
+            "start": 79,
+            "end": 89,
+            "probability": 0.835,
+            "type": "Product",
+            "normalized_text": "iphone14pro"
+          },
+          {
+            "start": 92,
+            "end": 105,
+            "probability": 0.812,
+            "type": "Product",
+            "normalized_text": "iphone14promax"
+          },
+          {
+            "start": 108,
+            "end": 115,
+            "probability": 0.8146,
+            "type": "Product",
+            "normalized_text": "iphone14"
+          },
+          {
+            "start": 118,
+            "end": 128,
+            "probability": 0.8795,
+            "type": "Product",
+            "normalized_text": "iphonedubai"
+          }
+        ],
+        "urls": [
+          {
+            "start": 53,
+            "end": 76,
+            "url": "https://t.co/68LC3bptf7",
+            "expanded_url": "https://reserve-prime.apple.com/AE/en_AE/reserve/A?quantity=2&store=R596&partNumber=MQ9W3AA/A&plan=unlocked",
+            "display_url": "reserve-prime.apple.com/AE/en_AE/reser…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1589618199062102016/IYo8kXrO?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "iPhone",
+            "description": "Powerful. Beautiful. Durable. Check out the new iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14, iPhone 14 Plus, and iPhone SE.",
+            "unwound_url": "https://www.apple.com/ae/iphone/"
+          }
+        ]
+      },
+      "lang": "en",
+      "conversation_id": "1590955360499560448",
+      "context_annotations": [
+        {
+          "domain": {
+            "id": "46",
+            "name": "Business Taxonomy",
+            "description": "Categories within Brand Verticals that narrow down the scope of Brands"
+          },
+          "entity": {
+            "id": "1557697333571112960",
+            "name": "Technology Business",
+            "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1572673833676333056",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "49",
+            "name": "Product Version",
+            "description": "The specific model or version of a product.  Examples: Audi A8, Ben & Jerry's Chocolate Chip Ice Cream"
+          },
+          "entity": {
+            "id": "1584926191374344192",
+            "name": "Iphone 14"
+          }
+        },
+        {
+          "domain": {
+            "id": "131",
+            "name": "Unified Twitter Taxonomy",
+            "description": "A taxonomy of user interests. "
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "47",
+            "name": "Brand",
+            "description": "Brands and Companies"
+          },
+          "entity": {
+            "id": "10026364281",
+            "name": "Apple"
+          }
+        },
+        {
+          "domain": {
+            "id": "48",
+            "name": "Product",
+            "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone."
+          },
+          "entity": {
+            "id": "10024011738",
+            "name": "Apple - iPhone"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848920371311001600",
+            "name": "Technology",
+            "description": "Technology and computing"
+          }
+        },
+        {
+          "domain": {
+            "id": "30",
+            "name": "Entities [Entity Service]",
+            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+          },
+          "entity": {
+            "id": "848985956778561538",
+            "name": "Mobile",
+            "description": "Mobile"
+          }
+        }
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "possibly_sensitive": false,
+      "created_at": "2022-11-11T06:31:31.000Z",
+      "edit_history_tweet_ids": [
+        "1590955360499560448"
+      ],
+      "source": "iphone-bot",
+      "id": "1590955360499560448",
+      "text": "✅Mall of Emirates iPhone 14 Pro Max 256GB Gold\nLink: https://t.co/68LC3bptf7 \n#iphone14pro #iphone14promax #iphone14 #iphonedubai",
+      "reply_settings": "everyone",
+      "author_id": "1573217945202950145"
     }
   ],
   "meta": {
-    "newest_id": "1589500274267553792",
-    "oldest_id": "1589495543847321601",
+    "newest_id": "1590962060149391361",
+    "oldest_id": "1590955360499560448",
     "result_count": 10,
-    "next_token": "b26v89c19zqg8o3fpzen8dl8qxakqwir1g073nsj0zukd"
+    "next_token": "b26v89c19zqg8o3fpzhj85re4l0hoq419abo0xc2s8w3h"
   }
 }

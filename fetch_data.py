@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import requests
 import os
+import ndjson
 
 ############################  ############################
 # Authentification information
@@ -16,8 +17,8 @@ bearer_token = "AAAAAAAAAAAAAAAAAAAAAGmjhwEAAAAA2bw4J5CXp748WcaLSb5CVwVu5W8%3DCC
 query = '#iphone14 #iphone14pro #iphone14promax'
 
 # Define query start time and end time
-starttime = "2022-11-06T00:00:00.000Z"
-endtime = "2022-11-07T07:00:00.000Z"
+starttime = "2022-11-10T00:00:00.000Z"
+endtime = "2022-11-11T07:00:00.000Z"
 granularity = 'hour'
 
 ############################ Connection&Authentification ############################
@@ -39,13 +40,8 @@ tweets = client.search_recent_tweets(
     query=query,
     end_time=endtime,
     start_time=starttime,
-    tweet_fields=[
-        'id', 'text', 'attachments', 'author_id', 'context_annotations',
-        'conversation_id', 'created_at', 'entities', 'geo',
-        'in_reply_to_user_id', 'lang', 'possibly_sensitive',
-        'referenced_tweets', 'reply_settings', 'source', 'withheld',
-        'public_metrics'
-    ],
+    tweet_fields=['id', 'text', 'attachments','author_id','context_annotations', 'conversation_id','created_at', 'entities', 'geo',
+    'in_reply_to_user_id', 'lang', 'possibly_sensitive', 'referenced_tweets', 'reply_settings', 'source', 'withheld', 'public_metrics'],
     max_results=10)
 
 # count recent tweets
@@ -64,6 +60,7 @@ cmd = os.getcwd()
 chcmd = cmd + '/data'
 os.chdir(chcmd)
 
+
 # Save data to json file https://www.w3schools.com/python/python_json.asp
 with open('tweets_iphone.json', 'w', encoding='utf-8') as f:
     json.dump(tweets_dict, f, indent=2, ensure_ascii=False)
@@ -72,14 +69,21 @@ with open('tweets_count_iphone.json', 'w', encoding='utf-8') as f:
     json.dump(tweets_count_dict, f, indent=2, ensure_ascii=False)
 
 #Save data to local csv file#
-# Extract "data" value from dictionary
+# Extract "data" from dictionary
+tweets_data = tweets_dict.get('data')
 # tweets_data = tweets_dict['data']
-# tweets_count_data = tweets_count_dict['data']
+tweets_count_data = tweets_count_dict['data']
 
 # Convert json to pandas dataframe
-# df = pd.json_normalize(tweets_data)
-# df_count = pd.json_normalize(tweets_count_data)
+df = pd.json_normalize(tweets_data)
+df_count = pd.json_normalize(tweets_count_data)
 
 # Save data to csv file
-# df.to_csv("tweets_iphone.csv")
-# df_count.to_csv("tweets_count_iphone.csv")
+df.to_csv("tweets_iphone.csv")
+df_count.to_csv("tweets_count_iphone.csv")
+
+# JSON to NDJSO conversion
+# https://onexlab-io.medium.com/elasticsearch-json-data-ingestion-b275bc0d1622
+# https://github.com/mradamlacey/json-to-es-bulk
+# node index.js -f "C:\Users\CAI Yiling\Desktop\GitProjet\ProjetTwitter_IDF\data\tweets_iphone_corri.json" --index twitter --type _doc
+

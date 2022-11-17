@@ -36,15 +36,15 @@ query_param = {
 'query':'#iphone14 OR iphone14 OR #iphone14promax OR iphone14promax OR #iphone14pro OR iphone14pro -is:retweet',
 'user_fields' : 'username,public_metrics,description,location',
 'tweet_fields':'created_at,geo,public_metrics,text,source,lang,reply_settings,possibly_sensitive,entities,context_annotations',
-'start_time': "2022-11-09T17:00:00.000Z",
-'end_time': "2022-11-15T07:16:39.000Z",
+'start_time': "2022-11-16T17:00:00.000Z",
+'end_time': "2022-11-16T17:30:00.000Z",
 'max_results' : 100
 }
 
 query_count_param = {
 'query' : "#iphone14 OR iphone14 OR #iphone14promax OR iphone14promax OR #iphone14pro OR iphone14pro -is:retweet",
-'start_time': "2022-11-11T23:00:00.000Z",
-'end_time': "2022-11-12T00:00:00.000Z",
+'start_time': "2022-11-16T17:00:00.000Z",
+'end_time': "2022-11-16T17:30:00.000Z",
 'granularity' : 'hour',
 } 
 
@@ -72,6 +72,7 @@ class GET_TWEETS:
         client = tweepy.Client(**self.auth_param,
                             return_type=requests.Response,
                             wait_on_rate_limit=False)
+        return client
 
     # get recent tweets contents
     def recent_tweets(self):
@@ -92,7 +93,7 @@ class GET_TWEETS:
     def recent_tweets_count(self):
         # if connection succeeds, search recent tweet or print 'Twitter connection failed!' error message.
         try:  
-            client = self.twitter_connection_endpoint()
+            client=self.twitter_connection_endpoint()
         except :
             print('Twitter connection failed!')
         else :
@@ -146,13 +147,14 @@ def combine_csv_file(cmd, filename):
     df_append.to_csv(filename)
 
 # Connect to remote Elasticsearch
-def elasticsearch_connection(**arg):
+def elasticsearch_connection(cloudid, username, password, crt):
     # connect to remote Elasticsearch
     try : 
         es = Elasticsearch(
             cloud_id=cloudid,
             basic_auth=(username, password),
-            ca_certs=crt
+            ca_certs=crt,
+            verify_certs=True
         )
     except:
         print('Elasticsearch remote connection failed !')
@@ -172,7 +174,8 @@ if __name__=='__main__':
     # Fetch all twitter data for the defined period and save them to csv file. Using next_token parameter to know if there is still more data unloaded during the period.
     while True :
         sleep(1)
-        tweets_data = GET_TWEETS(auth_param, query_param, query_count_param, nexttoken).recent_tweets()
+        d = GET_TWEETS(auth_param, query_param, query_count_param, nexttoken)
+        tweets_data = d.recent_tweets()
         try:
             nexttoken = tweets_data['meta']['next_token']
         except Exception:
@@ -196,7 +199,7 @@ if __name__=='__main__':
     json_str = df.to_json(orient='records')
     json_records = json.loads(json_str)
     # Send json data to elasticsearch
-    helpers.bulk(es,json_records, index='test')
+    helpers.bulk(es,json_records, index='test_yiling')
     
 
 

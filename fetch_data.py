@@ -17,11 +17,11 @@ from elasticsearch import Elasticsearch, helpers
 ########			Global 						#############
 # Twitter API Authentification information
 auth_param = {
-    'access_token': "724143775677845505-WQWYBuUzbucqX8ytKfWz2oZ8XCdekYI",
-    'access_token_secret': "albiqWEFTUES7K90bPeCItiBFqQdQRzx7eflOQySDwX1O",
-    'consumer_key': "LrCFkh2aFVDpD0sDrY2HnSXTP",
-    'consumer_secret' : "uAUvnTDCiIVNV3dLPjDJDkRWglCNQUcd1POFyN29ZGLFN8kh1",
-    'bearer_token': "AAAAAAAAAAAAAAAAAAAAAGmjhwEAAAAA2bw4J5CXp748WcaLSb5CVwVu5W8%3DCC6hm0yObWyuyTIZu15tTpg2DKVXvhOaUhD9YScLCTouUkxlTA"
+    'access_token': "xxxxxxxxxxxxx",
+    'access_token_secret': "xxxxxxxxxxxxxx",
+    'consumer_key': "xxxxxxxxxxxxx",
+    'consumer_secret' : "xxxxxxxxxxxxxxxxxxxxxxxxx",
+    'bearer_token': "xxxxxxxxxxxxxxxxxxxxx"
 }
 
 # Define twitter query parameters: https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
